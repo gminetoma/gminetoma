@@ -12,7 +12,7 @@ Hi there! 👋.<br><br>I’m passionate about solving real-world problems with c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gminetoma&theme=github_dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gminetoma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gminetoma&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gminetoma&icon=1&color=6)](https://visitcount.itsvg.in)
