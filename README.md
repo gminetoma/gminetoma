@@ -1,8 +1,42 @@
-<h2 align="center">Hi 👋! My name is Gustavo Minetoma. I'm originally from Brazil, currently living in Japan.<br>I graduated in Systems Analysis and Development, and nowadays I'm a full-stack engineer.</h2>
+<h2 align="center">Hi 👋! My name is Gustavo Minetoma</h2>
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
+<br />
+
+<h3 align="center">I'm originally from Brazil, currently living in Japan.<br>I graduated in Systems Analysis and Development, and nowadays I'm a Full Stack Engineer.</h3>
+
+<br />
+<br />
+
+<div align="center">
+  <img height="300" src="https://github.com/gminetoma/gminetoma/blob/main/static/husky.gif"  />
+</div>
+
+<br />
+<br />
+
+<h2 align="center">My Recent Projects</h2>
+
+<br />
+
+<div align="center">
+
+  <h3>Modular CV</h3>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Modular-CV&repo=backend)](https://github.com/Modular-CV/backend)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Modular-CV&repo=frontend)](https://github.com/Modular-CV/frontend)
+
+  <h3>Find a Doc, Japan</h3>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ourjapanlife&repo=findadoc-web)](https://github.com/ourjapanlife/findadoc-web)
+</div>
+
+<br />
+<br />
+
+<h2 align="center">My Tech Stack</h2>
+
+<br />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -19,6 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -28,31 +64,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
+<br />
+<br />
+
+<hr />
+
+<br />
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gminetoma/gminetoma/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br />
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gminetoma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gminetoma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gminetoma&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
-
-<img align="right" height="350" src="https://media1.tenor.com/m/H5HQJ2G5S28AAAAd/husky-husky-dog.gif"  />
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gminetoma/gminetoma/output/snake.svg" alt="Snake animation" />
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
+<br />
+<br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavommalves/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="92" height="80" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/gustavommalves/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="65" alt="linkedin logo"  /></a>
 </div>
