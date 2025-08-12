@@ -14,26 +14,6 @@
 <br />
 <br />
 
-<h2 align="center">My Recent Projects</h2>
-
-<br />
-
-<div align="center">
-
-  <h3>Modular CV</h3>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Modular-CV&repo=backend)](https://github.com/Modular-CV/backend)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Modular-CV&repo=frontend)](https://github.com/Modular-CV/frontend)
-
-  <h3>Find a Doc, Japan</h3>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ourjapanlife&repo=findadoc-web)](https://github.com/ourjapanlife/findadoc-web)
-</div>
-
-<br />
-<br />
-
 <h2 align="center">My Tech Stack</h2>
 
 <br />
