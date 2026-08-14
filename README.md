@@ -1,20 +1,28 @@
-<h2 align="center">Hi 👋! My name is Gustavo Minetoma</h2>
+<h1 align="center">Hi 👋! I'm Gustavo Minetoma</h1>
 
 <br />
 
-<h3 align="center">I'm originally from Brazil, currently living in Japan.<br>I graduated in Systems Analysis and Development, and nowadays I'm a Full Stack Engineer.</h3>
+<table align="center">
+  <tr>
+    <td width="55%" valign="middle">
+      <h3>I'm originally from Brazil, currently living in Japan.<br>I graduated in Systems Analysis and Development, and nowadays I'm a Full Stack Engineer.</h3>
+      <br />
+      <a href="https://www.linkedin.com/in/gustavommalves/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  /></a>
+    </td>
+    <td width="45%" align="center">
+      <img width="100%" style="border-radius: 16px;" src="https://github.com/gminetoma/gminetoma/blob/main/static/husky.gif"  />
+    </td>
+  </tr>
+</table>
 
 <br />
 <br />
 
-<div align="center">
-  <img height="300" src="https://github.com/gminetoma/gminetoma/blob/main/static/husky.gif"  />
-</div>
+<hr />
 
 <br />
-<br />
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <br />
 
@@ -24,10 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="go logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -39,7 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="claude logo" />
 </div>
 
 <br />
@@ -48,6 +56,9 @@
 <hr />
 
 <br />
+
+<h2 align="center">GitHub Activity</h2>
+
 <br />
 
 <div align="center">
@@ -58,13 +69,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gminetoma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gminetoma&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavommalves/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="65" alt="linkedin logo"  /></a>
+  <img src="https://raw.githubusercontent.com/gminetoma/gminetoma/metrics/metrics.svg" alt="GitHub metrics" />
 </div>
